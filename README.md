@@ -18,9 +18,11 @@ Attendance and participation in class activities is required to get credit.
 
 + Cluster Diagnostic and Build Project - 20%
 
-+ Participation in Architecture Comparison Discussions - 30 %
++ Participation in Architecture Comparison Discussions - 30%
 
-+ Final Project involving container architecture/technology - 50% of course grade
++ Quiz about key architecture technologies 10%
+
++ Final Project involving container architecture/technology - 40% of course grade
 
 ## Getting Help/E-mail
 
