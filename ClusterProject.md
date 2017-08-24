@@ -12,3 +12,5 @@ Devops/Advanced Goals (30%)
 
 * Get packages, nodes, MPI, etc to deploy via an orchestration framework (puppet, chef, ansible)
 * Install monitoring software (prometheus, nagios, elasticsearch)
+
+This project will be done as a group with me, failure to participate or actively engage in learning the skills/technologies as we go along will result in loss of points. 
